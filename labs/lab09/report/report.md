@@ -2,7 +2,7 @@
 ## Front matter
 title: "Отчёт по лабораторной работе №9"
 subtitle: "Командная оболочка Midnight Commander"
-author: "Александра Адмиральская"
+author: "Фролова Татьяна Михайловна"
 
 ## Generic otions
 lang: ru-RU
